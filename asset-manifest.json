@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ssumiz/reactmodernoutput.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/ssumiz/reactmodernoutput.github.io/static/js/main.f308b067.js",
-    "static/js/787.c10d652a.chunk.js": "/ssumiz/reactmodernoutput.github.io/static/js/787.c10d652a.chunk.js",
-    "static/media/logo.svg": "/ssumiz/reactmodernoutput.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ssumiz/reactmodernoutput.github.io/index.html",
-    "main.f855e6bc.css.map": "/ssumiz/reactmodernoutput.github.io/static/css/main.f855e6bc.css.map",
-    "main.f308b067.js.map": "/ssumiz/reactmodernoutput.github.io/static/js/main.f308b067.js.map",
-    "787.c10d652a.chunk.js.map": "/ssumiz/reactmodernoutput.github.io/static/js/787.c10d652a.chunk.js.map"
+    "main.css": "/reactmodernoutput.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/reactmodernoutput.github.io/static/js/main.d6eaf57a.js",
+    "static/js/787.c10d652a.chunk.js": "/reactmodernoutput.github.io/static/js/787.c10d652a.chunk.js",
+    "static/media/logo.svg": "/reactmodernoutput.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactmodernoutput.github.io/index.html",
+    "main.f855e6bc.css.map": "/reactmodernoutput.github.io/static/css/main.f855e6bc.css.map",
+    "main.d6eaf57a.js.map": "/reactmodernoutput.github.io/static/js/main.d6eaf57a.js.map",
+    "787.c10d652a.chunk.js.map": "/reactmodernoutput.github.io/static/js/787.c10d652a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.f308b067.js"
+    "static/js/main.d6eaf57a.js"
   ]
 }
